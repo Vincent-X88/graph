@@ -3,7 +3,7 @@ import edu.uci.ics.jung.graph.Graph;
 import edu.uci.ics.jung.graph.SparseGraph;
 import edu.uci.ics.jung.graph.util.EdgeType;
 
-import javax.swing.*;
+import javax.swing.*
 import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
