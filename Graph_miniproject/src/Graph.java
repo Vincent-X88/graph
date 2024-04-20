@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class Graph {
+publi class Graph {
     private List<JobSeeker> jobSeekers;
     private List<Business> businesses;
     private Matcher matcher;
