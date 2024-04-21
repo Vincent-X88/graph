@@ -1,4 +1,4 @@
-Xolani,Python, Sports, Data Science Compan
+Xolani,Python, Sports, Data Science Company
 Mpho,Java, Reading, Web Developer
 Gift, Java, Music, Software Development Firm
 karabo,programming, english, cooking,soccer, hobbies, manman,achieve 
