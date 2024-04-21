@@ -1,6 +1,6 @@
 Acme Inc, Java, Music, Software Development Firm
 Widget Corp, Python, Sports, Data Science Company
-Globex Ltd, Java, Reading, Web Develope
+Globex Ltd, Java, Reading, Web Developer
 Entain Ltd, Sound Engineering, Music, Entainment Company
 
 
