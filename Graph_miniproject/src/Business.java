@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class Business {
+public class Business 
     private String name;
     private List<String> requiredSkills;
     private List<String> requiredInterests;
