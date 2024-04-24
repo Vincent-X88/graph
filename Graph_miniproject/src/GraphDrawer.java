@@ -5,7 +5,7 @@ import edu.uci.ics.jung.visualization.decorators.ToStringLabeller;
 import edu.uci.ics.jung.visualization.renderers.Renderer;
 import org.apache.commons.collections15.Transformer;
 
-import javax.swing.*
+import javax.swing.*;
 import java.awt.*;
 
 public class GraphDrawer {
